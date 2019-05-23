@@ -1,14 +1,12 @@
 ## Founder
 
-Name: [name]
-Role: [role]
+Name: [ZG.Jiang]
+Role: [Co-founder]
 
-## Team Member 1
 
-Name: [name]
-Role: [role]
+Name: [Kangsao]
+Role: [Co-founder]
 
-## Team Member 2
 
-Name: [name]
-Role: [role]
+Name: [Jack_Lcz]
+Role: [Co-founder]
