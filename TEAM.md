@@ -1,6 +1,6 @@
 ## Founder
 
-Name: [ZG.Jiang]
+Name: [ZG.Jiang](https://twitter.com/jiang_zg)
 Role: [Co-founder]
 
 
