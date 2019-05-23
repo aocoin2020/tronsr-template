@@ -1,4 +1,6 @@
-#### AOCOIN.IO TRX.BET is a Decentralized  Wallet&APP based on TRON AOCOIN.IO TRX.BET是基于TRON的去中心化钱包&竞猜娱乐平台
+#### AOCOIN.IO TRX.BET is a Decentralized  Wallet&APP based on TRON 
+
+#### AOCOIN.IO TRX.BET是基于TRON的去中心化钱包&竞猜娱乐平台
 
 ### TRX.BET是一个基于TRON构建的去中心化的娱乐游戏及竞猜平台。
 
