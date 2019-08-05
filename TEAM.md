@@ -10,3 +10,6 @@ Role: Co-founder
 
 Name: Jack_Lcz
 Role: Co-founder
+
+Name: Jing_Tom
+Role: Co-founder
